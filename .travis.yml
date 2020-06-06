@@ -20,5 +20,4 @@ script:
 deploy:
   provider: heroku
   api-key: $HEROKUAPIKEY
-    secure:
   app: amauri-heroku-devs-ops
